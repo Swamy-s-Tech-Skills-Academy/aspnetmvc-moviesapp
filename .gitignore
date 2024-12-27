@@ -398,3 +398,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+src/MvcMovieApp/MvcMovieContext.db-wal
+src/MvcMovieApp/MvcMovieContext.db-shm
