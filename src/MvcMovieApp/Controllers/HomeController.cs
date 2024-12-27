@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MvcMovieApp.Models;
+using System.Diagnostics;
 using System.Text.Encodings.Web;
 
 namespace MvcMovieApp.Controllers;
